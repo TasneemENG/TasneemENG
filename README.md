@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Tasneem Khaled
 
-<!--
-**TasneemENG/TasneemENG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸 **Flutter Developer | 1.5 Years**
 
-Here are some ideas to get you started:
+I build clean, scalable, and user-friendly mobile apps using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Flutter & Dart
+- MVVM | Bloc | Dio
+- Firebase | REST APIs
+- Responsive UI & animations
+- Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Flutter animations
+- App optimization & CI/CD
+
+---
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tasneem-khaled-aa7bb9330)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tasneemshaheen2004@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tasneemkh&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasneemkh&layout=compact&theme=dracula&hide_border=true" height="150"/>
+</p>
